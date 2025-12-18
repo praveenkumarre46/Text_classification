@@ -1,12 +1,11 @@
-# Task 5: Text Classification on Consumer Complaints
+# Text Classification on Consumer Complaints
 
-## Project Description
-This project classifies consumer complaint texts into categories using **TF-IDF vectorization** and **Multinomial Naive Bayes**.
+## Project Overview
 
-- Cleaned and preprocessed text data
-- Trained a Naive Bayes model
-- Implemented prediction script for new text inputs
-- Demonstrated results with accuracy and classification report
+This project builds a machine learning based text classification system to categorize consumer complaint texts into predefined categories.
+It uses TF-IDF vectorization for text preprocessing and a Multinomial Naive Bayes classifier for prediction.
+The goal is to automate classification of text data and demonstrate an end-to-end ML workflow.
+
 
 ---
 
