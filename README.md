@@ -11,14 +11,13 @@ The goal is to automate classification of text data and demonstrate an end-to-en
 
 ## Project Structure
 
-task5_text_classification/
-│
-├── data/ # Dataset files
+Text_classification/
+├── data/ # Raw and cleaned dataset files
 ├── models/ # Saved model and vectorizer
-├── screenshots/ # Screenshots showing your work
-├── src/ # Python scripts
-├── README.md
-└── requirements.txt
+├── screenshots/ # Results and visual explanations
+├── src/ # Script files (preprocessing, training, prediction)
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 
 ---
