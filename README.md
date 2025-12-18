@@ -22,6 +22,13 @@ Text_classification/
 
 ---
 
+## Machine Learning Approach
+
+Text data is first cleaned to remove noise like URLs, hashtags, and non-alphabetic characters.
+TF-IDF vectorization is applied to convert text into numerical features.
+A Multinomial Naive Bayes classifier is trained on the transformed features to predict the text category.
+The trained model and vectorizer are saved for reuse.
+
 ## Setup Instructions
 
 1. Clone or download the repository.
